@@ -13,5 +13,6 @@
 - Express
 - MongoDB
 - Git & GitHub
-🔗 Open to internship & junior developer opportunities
+- 🔗 Open to internship & junior developer opportunities
+
 
